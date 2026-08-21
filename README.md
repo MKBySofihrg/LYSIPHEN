@@ -83,5 +83,6 @@ This repository is intended as a professional portfolio case study. It does **no
 
 **Sofía Hurtado Ramos** — Mechatronics Engineer focused on Python, automation, systems integration, and technical problem solving.
 
+- [Full engineering & software portfolio](https://github.com/MKBySofihrg/CV)
 - [LinkedIn](https://www.linkedin.com/in/sofihrg/)
 - [GitHub](https://github.com/MKBySofihrg)
